@@ -23,6 +23,7 @@ I have hands-on experience working with **SQL (PostgreSQL) and NoSQL (MongoDB) d
 I'm open to collaborating on **full-stack web applications, cloud-based solutions, and mobile apps**. If you’re working on something exciting, let’s connect!  
 
 ## 📫 Connect with Me  
+- **Website:** [portfolio](https://www.aliahmadcode.com/)  
 - **GitHub:** [aliahmadCode](https://github.com/aliahmadCode)  
 - **LinkedIn:** *[https://www.linkedin.com/in/ali-ahmad-994b2227a/]*  
 - **Email:** *[ali@aliahmadcode.com]*  

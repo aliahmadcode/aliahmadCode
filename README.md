@@ -1,5 +1,5 @@
 
-# 👋 Hi, I’m Ali Ahmad (@aliahmadCode)  
+# 👋 Hi, I’m Ali Ahmad (@aliahmadcode)  
 
 ## 🚀 About Me  
 I'm a **Full-Stack Software Engineer** with **2 years of experience**, specializing in **JavaScript, TypeScript, and Node.js**. I build scalable and high-performance web applications using **React.js, Next.js, Nest.js, and Express.js**.  
@@ -24,7 +24,7 @@ I'm open to collaborating on **full-stack web applications, cloud-based solution
 
 ## 📫 Connect with Me  
 - **Website:** [portfolio](https://www.aliahmadcode.com/)  
-- **GitHub:** [aliahmadCode](https://github.com/aliahmadCode)  
+- **GitHub:** [aliahmadCode](https://github.com/aliahmadcode)  
 - **LinkedIn:** *[https://www.linkedin.com/in/ali-ahmad-994b2227a/]*  
 - **Email:** *[ali@aliahmadcode.com]*  
 
